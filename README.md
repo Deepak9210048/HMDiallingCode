@@ -5,7 +5,7 @@ HMDiallingCode gets the dialling code of the user's current location. It uses Co
 
 Usage
 -----
-Included is a demo project showing how to use the classes.
+Included is a demo project showing how to use? the classes.
 
 To use in your own project, first import HMDiallingCode.m, HMDiallingCode.h and DiallingCodes.plist, then add CoreLocation to your linked libraries.
 
